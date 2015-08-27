@@ -287,9 +287,11 @@ a:focus {
   padding: 0 15px;
   font-weight: 300;
   overflow: hidden;
+  background-color:white;
 }
 .main-header .logo .logo-lg {
   display: block;
+  background-color:white;
 }
 .main-header .logo .logo-mini {
   display: none;
